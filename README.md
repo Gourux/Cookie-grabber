@@ -1,7 +1,7 @@
 # Gourux Cookie Grabber
 
 **I Am not responsible for any malicious use of this program**
-
+If any problems DM me Gaurux#9029
 
 Gourux Cookie grabber, The most Over-powered cookie logger in github 🤯 
 https://discord.gg/zAN8qDDYVV (UPDATED INV)
